@@ -1,0 +1,296 @@
+{
+"_setlings": {
+			"Prog_zaliczenia_prc": "50",
+			"Ile_pytan_do_wylosowania": "3",
+	        "Czy_pokazac_podglad_testu": "T"
+			
+},	
+"_pytanie": [
+	{
+
+		"question": "Ile edycji ma konferencja?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "1",
+				"correct": "0"
+			},
+			{
+				"answer": "6",
+				"correct": "1"
+			},
+			{
+				"answer": "5",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Kto jest Organizatorem konferencji?",
+		"question_type":"many_to_chose",
+		"answers": [
+			{
+				"answer": "i",
+				"correct": "1"
+			},
+			{
+				"answer": "Dig",
+				"correct": "1"
+			},
+			{
+				"answer": "Grom",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Jak się nazywa hotel, w którym się znajdujesz?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "Hilton",
+				"correct": "1"
+			},
+			{
+				"answer": "Sheraton",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Kto jest platynowym sponsorem konferencji?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer":"Cornerstone",
+				"correct": "0"
+			},
+			{
+				"answer": "iPro",
+				"correct": "1"
+			},
+			{
+				"answer":"iSpring",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Jak nazywa się proces wykorzystywania mechaniki znanej z gier fabularnych lub komputerowych, do modyfikowania zachowań pracowników?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "kanalizacja",
+				"correct": "0"
+			},
+			{
+				"answer": "socjalizacja",
+				"correct": "0"
+			},
+			{
+				"answer": "resocjalizacja",
+				"correct": "0"
+			},
+			{
+				"answer": "grywalizacja",
+				"correct": "1"
+			}
+		]
+	},
+	{
+
+		"question": "Czy pojęcie m-learning dotyczy szkoleń:",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "micro-learning",
+				"correct": "0"
+			},
+			{
+				"answer": "mobile-learning",
+				"correct": "1"
+			},
+			{
+				"answer": "mindfulness - learning",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Co to jest blended learning?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "Jest to mieszana forma kształcenia (np. warsztat, e-szkolenia, itp.).",
+				"correct": "1"
+			},
+			{
+				"answer": "Jest to uczenie się przy wykorzystaniu komputera.",
+				"correct": "0"
+			},
+			{
+				"answer": "Jest to zastosowanie w procesie edukacyjnym mechanizmów znanych z gier fabularnych i komputerowych",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Co oznacza Lifelong learning?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "Jest to idea uczenia się przez całe życie.",
+				"correct": "1"
+			},
+			{
+				"answer": "Jest to uczenie się przy wykorzystaniu urządzeń mobilnych.",
+				"correct": "0"
+			},
+			{
+				"answer": "Szkolenie, w którym użytkownik sam kieruje swoim procesem edukacyjnym.",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Co to jest Awatar?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "Komunikator internetowy.",
+				"correct": "0"
+			},
+			{
+				"answer": "Reprezentant osoby w wirtualnym świecie.",
+				"correct": "1"
+			},
+			{
+				"answer": "Rodzaj pliku multimedialnego.",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Co to jest self-sufficient learning?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "Uczenie się od innych",
+				"correct": "0"
+			},
+			{
+				"answer": "Samokształcenie",
+				"correct": "1"
+			},
+			{
+				"answer": "Uczenie się w modelu społecznościowym",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Który z partnerów Konferencji ma w swojej ofercie kursy językowe?",
+		"question_type":"many_to_chose",
+		"answers": [
+			{
+				"answer": "British Council",
+				"correct": "1"
+			},
+			{
+				"answer": "Cornerstone",
+				"correct": "1"
+			},
+			{
+				"answer": "Escola",
+				"correct": "1"
+			}
+		]
+	},
+	{
+
+		"question": "Który z partnerów konferencji oferuje VR-immersive learning?",
+		"question_type":"many_to_chose",
+		"answers": [
+			{
+				"answer": "i",
+				"correct": "1"
+			},
+			{
+				"answer": "adidas",
+				"correct": "0"
+			},
+			{
+				"answer": "iS",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Z jakiej miejscowości jest firma?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "Z Otwocka",
+				"correct": "0"
+			},
+			{
+				"answer": "Z Warszawy",
+				"correct": "1"
+			},
+			{
+				"answer": "Z Wąchocka",
+				"correct": "0"
+			}
+		]
+	},
+	{
+
+		"question": "Na jakie urządzenia firma tworzy swoje aplikacje szkoleniowe?",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": " Na PC, tablety i smartfony",
+				"correct": "0"
+			},
+			{
+				"answer": "Na PC i tablety",
+				"correct": "0"
+			},
+			{
+				"answer": "Na PC, tablety, smartfony, google VR i AR",
+				"correct": "1"
+			}
+		]
+	},
+	{
+
+		"question": "Blog to:",
+		"question_type":"one_to_chose",
+		"answers": [
+			{
+				"answer": "strona internetowa, na której osoba lub grupa osób regularnie zamieszcza wpisy poświęcone określonej tematyce",
+				"correct": "1"
+			},
+			{
+				"answer": "dzielenie się krótkimi wiadomościami tekstowymi w ramach sieci społecznościowej, pierwszym serwisem tego typu był Twitter",
+				"correct": "0"
+			},
+			{
+				"answer": "krótka interaktywna forma prezentacyjna",
+				"correct": "0"
+			}
+		]
+	}
+]
+	
+}
